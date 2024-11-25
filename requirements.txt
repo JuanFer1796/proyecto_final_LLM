@@ -1,0 +1,26 @@
+langchain ==0.3.6
+langchain-experimental ==0.3.2
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-openai
+pypdf
+faiss-cpu
+langchainhub
+langsmith
+langgraph
+langchain-pinecone
+requests
+black
+openai
+google-search-results
+python-dotenv
+pinecone
+beautifulsoup4
+altair<5
+streamlit
+streamlit-chat
+firecrawl-py
+pandas
+tabulate
+pygame
